@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @chronicallyunfunny
+- 👀 I’m interested in nothing.
+- 🌱 I’m currently learning how to while away my life.
+- 💞️ I’m looking to collaborate on your mom.
+- 📫 How to reach me: Dial 911.
