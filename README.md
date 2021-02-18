@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chronicallyunfunny
 - 👀 I’m interested in your mom.
-- 🌱 I’m currently learning how to while away my life.
+- 🌱 I’m currently learning how to while away my life (my uni semester starts in effing august).
 - 💞️ I’m looking to collaborate on deez nuts.
 - 📫 How to reach me: Dial 911.
