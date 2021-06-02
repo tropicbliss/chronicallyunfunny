@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chronicallyunfunny
+- 👋 Hi, I’m @tropicbliss
 - 👀 I’m interested in your mom.
 - 🌱 I’m currently learning how to while away my life.
 - 💞️ I’m looking to collaborate on deez nuts.
