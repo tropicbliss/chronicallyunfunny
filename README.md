@@ -8,7 +8,7 @@
 
 <a href="https://github.com/chronicallyunfunny/github-stats">
   
-![](https://raw.githubusercontent.com/chronicallyunfunny/github-stats/master/generated/overvieew.svg)
+![](https://raw.githubusercontent.com/chronicallyunfunny/github-stats/master/generated/overview.svg)
 ![](https://github.com/chronicallyunfunny/github-stats/blob/master/generated/languages.svg)
 
 </a>
