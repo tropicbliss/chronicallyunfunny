@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @tropicbliss
-- 👀 I’m interested in your mom.
-- 🌱 I’m currently learning how to while away my life.
-- 💞️ I’m looking to collaborate on deez nuts.
-- 📫 How to reach me: Dial 911.
-
+# - 👋 Hi, I’m @tropicbliss
+# - 👀 I’m interested in your mom.
+# - 🌱 I’m currently learning how to while away my life.
+# - 💞️ I’m looking to collaborate on deez nuts.
+# - 📫 How to reach me: Dial 911.
+#
 <div align="center">
 
 <a href="https://github.com/chronicallyunfunny/github-stats">
