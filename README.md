@@ -6,6 +6,9 @@
 - 📫 How to reach me: Dial 911.
 
 -->
+
+1st year university student learning computery stuff.
+
 <div align="center">
 
 <a href="https://github.com/chronicallyunfunny/github-stats">
