@@ -5,9 +5,8 @@
 - 💞️ I’m looking to collaborate on deez nuts.
 - 📫 How to reach me: Dial 911.
 
--->
-
 1st year university student learning computery stuff.
+-->
 
 <div align="center">
 
