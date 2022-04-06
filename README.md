@@ -10,10 +10,10 @@
 
 <div align="center">
 
-<a href="https://github.com/chronicallyunfunny/github-stats">
+<a href="https://github.com/tropicbliss/github-stats">
   
-![](https://raw.githubusercontent.com/chronicallyunfunny/github-stats/master/generated/overview.svg)
-![](https://github.com/chronicallyunfunny/github-stats/blob/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/tropicbliss/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/tropicbliss/github-stats/blob/master/generated/languages.svg)
 
 </a>
 
