@@ -8,6 +8,8 @@
 1st year university student learning computery stuff.
 -->
 
+https://www.tropicbliss.net/
+
 <div align="center">
 
 <a href="https://github.com/tropicbliss/github-stats">
