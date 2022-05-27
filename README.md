@@ -8,7 +8,7 @@
 1st year university student learning computery stuff.
 -->
 
-<a href="https://www.tropicbliss.net" target="_blank">Homepage</a>
+<p>https://www.tropicbliss.net/</p>
 
 <div align="center">
 
